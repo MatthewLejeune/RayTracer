@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <script type="application/x-javascript" src="../minilibjs"></script>
+    <script type="application/x-javascript" src="struct.js"></script>
+    <script type="application/x-javascript" src="main.js"></script>
+    <script type="application/x-javascript" src="moves.js"></script>
+    <script type="application/x-javascript" src="core.js"></script>
+    <script type="application/x-javascript" src="inter_obj.js"></script>
+  </head>
+  <body onload="main()" id="body">
+  </body>
+</html>
